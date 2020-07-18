@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dz_2_2_1_and</string>
+    <string name="str_btn">Сохранить</string>
+    <string name="str_et">Ввод данных</string>
+
+    <string name="str_note_key">note_text</string>
+    <string name="str_note_name">note_text</string>
+
+</resources>
